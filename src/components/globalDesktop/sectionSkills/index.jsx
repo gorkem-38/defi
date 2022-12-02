@@ -1,10 +1,8 @@
 import { styles } from "./styles";
-import border from "../../../assets/img/ico/borderOrange.svg";
 import skill1 from "../../../assets/img/ico/skill1.svg";
 import skill2 from "../../../assets/img/ico/skill2.svg";
 import skill3 from "../../../assets/img/ico/skill3.svg";
 import skill4 from "../../../assets/img/ico/skill4.svg";
-import bgSvg from "../../../assets/img/ico/sectionSkills.svg";
 
 export const Section2Skills = () => {
   return (
