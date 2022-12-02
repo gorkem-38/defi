@@ -75,9 +75,9 @@ export const Section4Timeline = () => {
             does not captivate your audience.
           </p>
           <div className="h-40 flex items-center">
-            <a href="#" className="bg-[#BB2323] font-inter rounded-full text-white text-sm px-8 py-3">
+            <button className="cursor-pointer bg-[#BB2323] font-inter rounded-full text-white text-sm px-8 py-3">
               Download Resume
-            </a>
+            </button>
           </div>
         </div>
         <div className="col-span-2 pl-10">

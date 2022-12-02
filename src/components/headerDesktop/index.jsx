@@ -85,7 +85,7 @@ export const Section1HeaderDesktop = () => {
               <div className="flex justify-end items-center ml-48 pt-20">
                 <img
                   src={ProfilPics}
-                  alt="photo profil"
+                  alt="olivier"
                   style={{ width: "765px", height: "525px" }}
                 />
               </div>
