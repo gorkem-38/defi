@@ -51,7 +51,7 @@ export const Section1HeaderDesktop = () => {
                     Je suis Fullstack Designer
                   </p>
                   <h2
-                    className="text-6xl pb-6"
+                    className="text-4xl pb-6"
                     style={{ paddingLeft: "24.2rem" }}
                   >
                     Hola, mi nombre es

@@ -69,7 +69,7 @@ export const Section4Timeline = () => {
         <div className="lg:flex lg:flex-col lg:items-start lg:pl-28">
           <h2 className={styles.title}>Experience</h2>
           <img src={border} alt="border" className="pb-6 pr-28" />
-          <p className="text-white font-inter font-normal text-sm lg:pr-64">
+          <p className="text-white font-inter font-normal text-sm lg:pr-28">
             Necessitatibus eius consequatur ex aliquid fuga eum quidem, It
             doesn’t matter how great your product or service is if your copy
             does not captivate your audience.
@@ -86,7 +86,7 @@ export const Section4Timeline = () => {
               <img src={ss} alt="exp1" />
             </div>
             <div>
-              <p className="text-white text-sm font-inter font-normal pr-32 lg:pr-80">
+              <p className="text-white text-sm font-inter font-normal pr-32">
                 Au sein du pôle R+D, développement et amélioration du framework
                 maison et du backoffice. Création d'un outil d'analyse des logs
                 d'accès crawlers
@@ -99,7 +99,7 @@ export const Section4Timeline = () => {
               <img src={aa} alt="exp1" />
             </div>
             <div>
-              <p className="text-white text-sm font-inter pr-40 lg:pr-80">
+              <p className="text-white text-sm font-inter pr-40">
                 Mise en place de la méthodologie et des processus de
                 développement - SVN, Trac, Hudson
               </p>
@@ -111,7 +111,7 @@ export const Section4Timeline = () => {
               <img src={ff} alt="exp1" />
             </div>
             <div>
-              <p className="text-white text-sm font-inter pr-40 lg:pr-80">
+              <p className="text-white text-sm font-inter pr-40">
                 Création de sites et de jeux concours principalement dans le
                 domaine des jeux vidéos : Sega, Ubisoft, Microsoft, Electronic
                 Arts, Capcom, Bethesda

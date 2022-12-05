@@ -10,20 +10,20 @@ export const Section3Portfolio = () => {
   return (
     <section className={`${styles.bg}`}>
       <div className={styles.divPortfolio}>
-        <div>
+        <div className="lg:ml-[15rem]">
           <h2 className={styles.title}>Portfolio</h2>
-          <p className={styles.textP} style={{marginLeft: "22.3rem"}}>
+          <p className={styles.textP}>
             Necessitatibus eius consequatur ex aliquid fuga eum quidem, It
             doesn’t matter how great your product or service is if your copy
             does not captivate your audience.
           </p>
         </div>
       </div>
-      <div className="hidden lg:grid lg:grid-rows-3">
+      <div className="hidden lg:grid lg:grid-rows-3 lg:ml-[-10rem]">
         <div className="flex flex-row">
           <div
             className="lg:bg-[url('../../assets/img/gallery/astronaut.png')] bg-cover"
-            style={{ width: "480px", height: "265px", borderRadius: "20px" }}
+            style={{ width: "480px", height: "265px", borderRadius: "20px"}}
           ></div>
           <div
             className="ml-8 lg:bg-[url('../../assets/img/gallery/work.png')] bg-cover"
