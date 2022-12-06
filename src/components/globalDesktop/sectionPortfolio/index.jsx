@@ -10,7 +10,7 @@ export const Section3Portfolio = () => {
   return (
     <section className={`${styles.bg}`}>
       <div className={styles.divPortfolio}>
-        <div className="lg:ml-[15rem]">
+        <div className="lg:ml-[10rem]">
           <h2 className={styles.title}>Portfolio</h2>
           <p className={styles.textP}>
             Necessitatibus eius consequatur ex aliquid fuga eum quidem, It

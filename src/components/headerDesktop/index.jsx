@@ -18,7 +18,7 @@ export const Section1HeaderDesktop = () => {
         {/* div for content text */}
         <div>
           <div className="absolute">
-            <div className="flex pl-96 pt-10">
+            <div className="flex pl-4 pt-10">
               <h2 className="font-roboto font-black pl-6 pr-20 text-3xl">
                 Olivier.
               </h2>
@@ -43,7 +43,7 @@ export const Section1HeaderDesktop = () => {
             <div className="grid grid-cols-2 w-screen">
               {/* col 1 */}
               <div className="">
-                <div className="flex flex-col ">
+                <div className="flex flex-col">
                   <p
                     className="pt-20 pb-10 text-custom-gray-100 uppercase tracking-widest font-roboto"
                     style={{ paddingLeft: "24.2rem" }}
